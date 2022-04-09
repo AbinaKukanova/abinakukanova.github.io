@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Шрифт</title>
+  <style>
+   @font-face {
+    font-family: Pompadur; /* Гарнитура шрифта */
+    src: url(fonts/pompadur.ttf); /* Путь к файлу со шрифтом */
+   }
+   h1 {
+    font-family: Pompadur, 'Comic Sans MS', cursive;
+   }
+  </style>
+ </head>
+ <body>
+  <h1>Современный элемент политического процесса</h1>
+  <p>По сути, политическое учение Монтескье приводит 
+     континентально-европейский тип политической культуры, 
+     что получило отражение в трудах Михельса.</p>
+ </body>
+</html>
